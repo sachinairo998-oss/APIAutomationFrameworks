@@ -120,7 +120,7 @@ allure serve allure-results/
 ```
 
 📸 **Allure Dashboard**
-![Allure](https://github.com/sachinairo998-oss/APIAutomationFramework)
+![Allure](https://github.com/sachinairo998-oss/ATB14xAPIAutomationPrograms/tree/master/allure-results)
 
 ---
 
