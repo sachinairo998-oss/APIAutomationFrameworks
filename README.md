@@ -23,7 +23,7 @@ A **powerful, scalable, and CI/CD-ready API Automation Framework** built using *
 mvn test -Dsurefire.suiteXmlFiles=testng.xml
 ````
 
-📸 **Execution Preview** <img width="1130" src="https://github.com/PramodDutta/APIAutomationRestAssured/assets/1409610/69f398b3-8798-4fba-a091-3b1e321dcc7d">
+📸 **Execution Preview** <img width="1130" src="https://github.com/sachinairo998-oss/APIAutomationFramework">
 
 ---
 
@@ -54,7 +54,7 @@ mvn test -Dsurefire.suiteXmlFiles=testng.xml
 
 ## 🔁 CI/CD Execution (Jenkins)
 
-📸 **Pipeline Execution** <img width="1262" src="https://github.com/sachinairo998-oss/APIAutomationFramework">
+📸 **Pipeline Execution** <img width="1262" src="https://github.com/sachinairo998-oss/APIAutomationFramework/tree/master/src/test/java/org/example">
 
 ---
 
